@@ -1,0 +1,53 @@
+SWDV-152 Project 6
+
+Team Generated Requirements:
+
+- A homepage for our arts and crafts store
+- A navbar menu
+- An items page to view products ( without a purchase button )
+- Teachers number 2087616711
+
+	Fake Products:
+
+- Necklace Products
+- Finished wood chair/table
+- Paintings 
+
+Questions for the product owner:
+
+- Are there specific themes/colors?
+    Fall colors, nice warms and yellows to draw people's attention
+
+- What do you sell?
+    Completed products, woodworks, from other local creators
+
+- How do we contact you? 
+    Generic contact info 
+
+- Do we need a footer?
+    Not necessarily
+
+- What would you like on the homepage?
+   Feature of a specific item followed by some happy looking people
+
+- How many products would you like to see on the items page?
+    15 to 20 items at most, dont want to do multiple pages
+
+- What do you want on the about page?
+    Generic "We help local creators" text
+
+-[Requirement]: Way to search for products with specific properties (ear rings)
+
+-[Requirement]: Click responsiveness of some type for items to show theyve been selected | without creating  purchasing meny
+
+- Logo visible on all pages
+
+Scrum Master Delegations:
+	-User Stories
+	- User Stories
+	- Homepage building
+	- CSS Styling
+
+	- Javascript creator
+
+- First sprint: #1 Priority, Get the front page done 
