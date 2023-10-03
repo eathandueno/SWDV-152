@@ -3,7 +3,6 @@ html {
 }
 header {
   background-color:#D85251;
-  width: 95vw;
 }
 .logo {
   margin-top:10px;
@@ -33,11 +32,15 @@ footer {
   padding-top: 10px;
   padding-bottom: 10px;
   text-align: center;
+  height: 50px;
   width: 100%;
-  margin-top: 50px;
+  /*To keep footer at bottom of page*/
+  height: 50px;
+  position:fixed;
+  left: 0;
+  bottom: 0;
 }
 /*Media Queries!*/
-/*09/16/23*/
 @media screen and (max-width: 632px) {
   .logo {
   height:30px;
