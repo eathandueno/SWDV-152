@@ -1,8 +1,9 @@
 html {
-  background-color:white; /*or #DABDAD ?*/
+  background-color:#DABDAD;
 }
 header {
   background-color:#D85251;
+  width: 100%;
 }
 .logo {
   margin-top:10px;
