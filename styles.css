@@ -1,7 +1,8 @@
-
-  
+html {
+  background-color:white; /*or #DABDAD ?*/
+}
 header {
-  background-color:black;
+  background-color:#D85251;
   width: 95vw;
 }
 .logo {
@@ -11,7 +12,7 @@ header {
   height:45px;
 }
 .navigationtable a{
-  color:lightsalmon;
+  color:black;
   text-decoration: none;
 
   float: left; 
@@ -27,7 +28,16 @@ nav li {
   list-style-type: none;
   font-size:2em;
 }
+footer {
+  background-color:#D49A6A;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-align: center;
+  width: 100%;
+  margin-top: 50px;
+}
 /*Media Queries!*/
+/*09/16/23*/
 @media screen and (max-width: 632px) {
   .logo {
   height:30px;
