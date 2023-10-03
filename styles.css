@@ -27,3 +27,36 @@ nav li {
   list-style-type: none;
   font-size:2em;
 }
+/*Media Queries!*/
+@media screen and (max-width: 632px) {
+  .logo {
+  height:30px;
+}
+  .navigationtable {
+  font-size:1.5em;
+}  
+}
+@media screen and (max-width: 500px) {
+  .logo {
+    height: 25px;
+  }
+  .navigationtable {
+    font-size: 1em;
+  }
+}
+@media screen and (max-width: 380px) {
+  .logo {
+    height: 20px;
+  }
+  .navigationtable {
+    font-size: .6em;
+  }
+}
+@media screen and (max-width: 280px) {
+  .logo {
+    height: 10px;
+  }
+  .navigationtable {
+    font-size: .4em;
+  }
+}
