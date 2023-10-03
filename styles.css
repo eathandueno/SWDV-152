@@ -28,6 +28,12 @@ nav li {
   list-style-type: none;
   font-size:2em;
 }
+.homeimages {
+  margin: auto;
+  display: block;
+  text-align:right;
+  width: 90vw;
+}
 footer {
   background-color:#D49A6A;
   padding-top: 10px;
